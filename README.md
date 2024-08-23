@@ -3,9 +3,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=prabhakarmishra757&label=Profile%20views&color=0e75b6&style=flat" alt="prabhakarmishra757" /> </p>
 
-- 💬 Ask me about **Finance, Statistics, Python**
+- 💬 **Ask me about** **Finance, Statistics, Python**
 
-- 📫 How to reach me **prabhakarmishra757@gmail.com**
+- 📫 **Reach me at** **prabhakarmishra757@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
