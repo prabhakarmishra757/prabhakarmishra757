@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prabhakar Mishra</h1>
 <h3 align="center">MBA in Finance with keen interest in Risk Management</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=prabhakarmishra757&label=Profile%20views&color=0e75b6&style=flat" alt="prabhakarmishra757" /> </p>
 
   <h3 align="center"> 💬 Ask me about Finance, Statistics, Python and Physics</h3> 
 
