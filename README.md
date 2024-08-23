@@ -3,9 +3,10 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=prabhakarmishra757&label=Profile%20views&color=0e75b6&style=flat" alt="prabhakarmishra757" /> </p>
 
-                                        - 💬 **Ask me about** **Finance, Statistics, Python**
+  <h3 align="center"> 💬 Ask me about Finance, Statistics, Python</h3> 
 
-                                        - 📫 **Reach me at** **prabhakarmishra757@gmail.com**
+  <h3 align="center"> 📫 Reach me at prabhakarmishra757@gmail.com </h3> 
+
 
 <p align="center">
 <a href="https://linkedin.com/in/prabhakar-mishra-6761a3132" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prabhakar-mishra-6761a3132" height="30" width="40" /></a>
