@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=prabhakarmishra757&label=Profile%20views&color=0e75b6&style=flat" alt="prabhakarmishra757" /> </p>
 
-  <h3 align="center"> 💬 Ask me about Finance, Statistics, Python</h3> 
+  <h3 align="center"> 💬 Ask me about Finance, Statistics, Python and Physics</h3> 
 
   <h3 align="center"> 📫 Reach me at prabhakarmishra757@gmail.com </h3> 
 
