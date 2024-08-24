@@ -8,7 +8,7 @@
 <h3 align="center">Connect with me on:</h3>
 </br>
 <p align="center">
-<a href="https://linkedin.com/in/prabhakar-mishra-6761a3132" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prabhakar-mishra-6761a3132" height="30" width="40" /></a><a href="https://instagram.com/your_instagram_username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="your_instagram_username" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/prabhakar-mishra-6761a3132" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prabhakar-mishra-6761a3132" height="30" width="40" /></a><a href="https://instagram.com/_prabhakarmishra_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_prabhakarmishra_" height="30" width="40" /></a>
 </p>
 </br></br>
 
