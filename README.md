@@ -2,17 +2,26 @@
 <h3 align="center">MBA in Finance with keen interest in Risk Management</h3>
 
 
-  <h4 align="center"> 💬 Ask me about Finance, Statistics, Python and Physics</h4> 
+  <h4 align="center"> Finance | Statistics | Python | Physics</h4> 
+</br>
 
-  <h4 align="center"> 📫 Reach me at prabhakarmishra757@gmail.com </h4> 
-
-
+<h3 align="center">Connect with me on:</h3>
+</br>
 <p align="center">
 <a href="https://linkedin.com/in/prabhakar-mishra-6761a3132" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prabhakar-mishra-6761a3132" height="30" width="40" /></a><a href="https://instagram.com/your_instagram_username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="your_instagram_username" height="30" width="40" /></a>
 </p>
+</br></br>
 
-</p>
-
+<p align="center">
+     👨‍💻 All of my projects are available at <a href="https://github.com/prabhakarmishra757">GitHub</a>
+    </p>
+<p align="center">  
+    📫 How to reach me: <a href="mailto:prabhakarmishra757@gmail.com">prabhakarmishra757@gmail.com</a>
+  </p>
+<p align="center">
+       <a href="https://prabhakarmishra757.wixsite.com/my-site">Personal Website</a>
+    </p>
+</br></br>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
@@ -40,5 +49,17 @@
     <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" alt="power bi" width="40" height="40"/>
   </a> 
 </p>
+</br>
+ <hr>
+ <h3 align="center">My Github Stats:</h3>
+</br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prabhakarmishra757&show_icons=true&locale=en&layout=compact" alt="prabhakarmishra757" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prabhakarmishra757&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="prabhakarmishra757" width="230" height=110/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=prabhakarmishra757&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&border=DD2727" alt="prabhakarmishra757" width="250" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=prabhakarmishra757&theme=highcontrast&show_icons=true" alt="prabhakarmishra757" width="250" />
+</p>
+
+<hr>
+
+
