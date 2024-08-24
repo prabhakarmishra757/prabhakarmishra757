@@ -13,13 +13,13 @@
 </br></br>
 
 <p align="center">
-     👨‍💻 All of my projects are available at <a href="https://github.com/prabhakarmishra757">GitHub</a>
+     👨‍💻 All my projects are available at <a href="https://github.com/prabhakarmishra757">GitHub</a>
     </p>
 <p align="center">  
     📫 How to reach me: <a href="mailto:prabhakarmishra757@gmail.com">prabhakarmishra757@gmail.com</a>
   </p>
 <p align="center">
-       <a href="https://prabhakarmishra757.wixsite.com/my-site">Personal Website</a>
+     💻 <a href="https://prabhakarmishra757.wixsite.com/my-site">Personal Website</a>
     </p>
 </br></br>
 <h3 align="center">Languages and Tools:</h3>
