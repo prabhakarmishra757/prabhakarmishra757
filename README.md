@@ -48,6 +48,13 @@
   <a href="https://powerbi.microsoft.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" alt="power bi" width="40" height="40"/>
   </a> 
+  <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40"/>
+  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.r-project.org/Rlogo.png" alt="R Programming" width="40" height="40"/>
+</a>
+</a>
+
 </p>
 </br>
  <hr>
